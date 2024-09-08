@@ -1,0 +1,21 @@
+---
+// BaseLayout.astro
+const { title } = Astro.props;
+// const { title, children } = Astro.props;
+---
+
+<html lang="ru" class="no-js">
+ <head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <meta name="generator" content={Astro.generator} />
+  
+  <!-- <link rel="stylesheet" href="styles/styles.css" /> -->
+  <title>{title}</title>
+ </head>
+ <body>
+    <!-- {children} -->
+    <slot />
+ </body>
+</html>
+   

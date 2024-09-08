@@ -26,3 +26,4 @@ pnpm-debug.log*
 # Temporary files 2024-09-08 17:35
 tmp/
 src/data/_pre
+src/pages/info.md

@@ -1,0 +1,85 @@
+---
+const { title, type, date, time, size, audio_type, video_type, video_link, audio_link } = Astro.props;
+---
+
+<div class="song-card">
+  <!-- <img src={cover} alt="{Cover of ${title}}" > -->
+  <h2><!--{type}--> {title}</h2>
+
+  <nav id="watch_listen" class="start_video">
+    <button class="start_video_btn"><a href={video_link}>Смотреть</a></button>
+    <button class="start_video_btn2"><a href={audio_link}>Слушать</a></button>
+    <br>
+  </nav>
+
+  <div class="sermon_type">
+    <p>{type} ({date})</p>
+  </div>
+
+
+  <div class="meta_data">
+    <div id="meta_time">
+      <p>{video_type} {time}, {size} | {audio_type}</p>
+    </div>  
+  </div>
+  
+
+
+  <hr>
+</div>
+
+<style>
+  .sermon_card {
+    background: white;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+  }
+
+  .sermon_type {
+    font-style: italic;
+    font-size: normal;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    color: black;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  button {
+    background-color: darkviolet;
+    
+  }
+  a {
+    color: azure;
+    font-style: normal;
+    text-decoration: none;
+    font-size: large;
+  }
+  h2 {
+    /* color: blueviolet; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* text-align: center; */
+  }
+  p {
+    color: darkgray;
+  }
+  hr {
+    margin-top: 20px;
+  }
+  .start_video {
+    /* width: 65%; */
+    /* position: absolute; */
+    /* left: 25%; */
+    position: relative;
+  }
+  /* .start_video_btn {
+    position: absolute;
+    left: 20%;
+  }
+  .start_video_btn2 {
+    position: absolute;
+    left: 55%;
+  } */
+</style>
