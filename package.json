@@ -1,0 +1,21 @@
+{
+  "name": "sermons-lib",
+  "author": "Vladimir Victor Pavlychev",
+  "start-date": "2024-09-05",
+  "repository-url": "https://github.com/osarts/sermons-lib",
+  "type": "module",
+  "version": "0.0.2",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.3",
+    "astro": "^4.15.2",
+    "esbuild": "^0.23.1",
+    "typescript": "^5.5.4"
+  }
+}
