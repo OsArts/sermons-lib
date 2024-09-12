@@ -1,0 +1,25 @@
+---
+// import MySiteLayout from '../layouts/MySiteLayout.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SermonCard from '../../components/SermonCard.astro';
+import sermons from '../../data/sermons/2023.json';
+const myTitle = "Список проповедей 2023 года"
+---
+<BaseLayout title="2023">
+  <BaseLayout>
+    <html lang="ru" class="no-js">
+      <head>
+        <title>{myTitle}</title>
+      </head>
+      <body>
+        <h1>{myTitle}</h1>
+        <hr>
+        <div class="sermons-list">
+          {sermons.map(sermon => (
+            <SermonCard {...sermon} />
+          ))}
+        </div>
+      </body>
+    </html>
+  </BaseLayout>
+</BaseLayout>
