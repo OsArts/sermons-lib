@@ -27,3 +27,4 @@ pnpm-debug.log*
 tmp/
 src/data/_pre
 src/pages/info.md
+.venv
