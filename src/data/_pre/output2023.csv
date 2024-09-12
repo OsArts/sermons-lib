@@ -1,51 +1,51 @@
-type,       date,     title,video_type, time,    size, audio_type, video_link,                                  audio_link,id
-Проповедь, 07.01.2023,Рождественские мечты,HD MP4, 61 мин., 952 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/07012023.mp4,http://sdaprotvino.ru/sermons/070123.mp3,1
-Проповедь, 14.01.2023,Гора преображения. Моисей,HD MP4, 49 мин., 770 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/14012023.mp4,http://sdaprotvino.ru/sermons/140123.mp3,2
-Проповедь, 21.01.2023,Праздники и Евангелие,HD MP4, 46 мин., 718 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/21012023.mp4,http://sdaprotvino.ru/sermons/210123.mp3,3
-Проповедь, 28.01.2023,Четыре урока для последнего времени,HD MP4, 55 мин., 858 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/28012023.mp4,http://sdaprotvino.ru/sermons/280123.mp3,4
-Проповедь, 04.02.2023,Гора преображения. Илия,HD MP4, 59 мин., 924 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/04022023.mp4,http://sdaprotvino.ru/sermons/040223.mp3,5
-Проповедь, 11.02.2023,Бог смотрит на сердце,HD MP4, 47 мин., 739 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/11022023.mp4,http://sdaprotvino.ru/sermons/110223.mp3,6
-Проповедь, 18.02.2023,Бог говорит нам через Библию,HD MP4, 52 мин., 810 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/18022023.mp4,http://sdaprotvino.ru/sermons/180223.mp3,7
-Проповедь, 25.02.2023,"Се,  гряду скоро",HD MP4, 55 мин., 863 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/25022023.mp4,http://sdaprotvino.ru/sermons/250223.mp3,8
-Проповедь, 04.03.2023,"Совершилось!"" - два аспекта спасительного служения Христа",HD MP4, 45 мин., 704 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/04032023.mp4,http://sdaprotvino.ru/sermons/040323.mp3,9
-Проповедь, 11.03.2023,Преобразующая сила молитвы,HD MP4, 30 мин., 477 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/11032023.mp4,http://sdaprotvino.ru/sermons/110323.mp3,10
-Проповедь, 18.03.2023,"""Библия - это величайшее пророческое слово""",HD MP4, 34 мин., 537 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/18032023.mp4,http://sdaprotvino.ru/sermons/180323.mp3,11
-Проповедь, 25.03.2023,"""На Вечерю Господню""",HD MP4,45 мин.,710 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/25032023.mp4,http://sdaprotvino.ru/sermons/250323.mp3,12
-Проповедь, 01.04.2023,"Не судите,  да не судимы будете",HD MP4, 34 мин., 536 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/01042023.mp4,http://sdaprotvino.ru/sermons/010423.mp3,13
-Проповедь, 08.04.2023,"Слушай,  Израиль",HD MP4, 47 мин., 736 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/08042023.mp4,http://sdaprotvino.ru/sermons/080423.mp3,14
-Проповедь, 15.04.2023,Христос воскрес!,HD MP4, 45 мин., 712 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/15042023.mp4,http://sdaprotvino.ru/sermons/150423.mp3,15
-Проповедь, 22.04.2023,Препятствия в молитве,HD MP4, 41 мин., 641 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/22042023.mp4,http://sdaprotvino.ru/sermons/220423.mp3,16
-Проповедь, 29.04.2023,Я и Отец - одно,HD MP4, 49 мин., 760 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/29042023.mp4,http://sdaprotvino.ru/sermons/290423.mp3,17
-Проповедь, 06.05.2023,"Держи,  что имеешь",HD MP4, 59 мин., 923 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/06052023.mp4,http://sdaprotvino.ru/sermons/060523.mp3,18
-Проповедь, 13.05.2023,Пустыня - поражение или победа?,HD MP4, 32 мин., 495 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/13052023.mp4,http://sdaprotvino.ru/sermons/130523.mp3,19
-Проповедь, 20.05.2023,Сотворите же достойный плод покаяния,HD MP4, 40 мин., 626 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/20052023.mp4,http://sdaprotvino.ru/sermons/200523.mp3,20
-Проповедь, 27.05.2023,Прощение в обмен на любовь,HD MP4, 41 мин., 646 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/27052023.mp4,http://sdaprotvino.ru/sermons/270523.mp3,21
-Проповедь, 03.06.2023,Благодарность как часть веры,HD MP4, 19 мин., 302 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/03062023.mp4,http://sdaprotvino.ru/sermons/030623.mp3,22
-Проповедь, 10.06.2023,"Любовь,  предшествующая выбору",HD MP4, 45 мин., 702 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/10062023.mp4,http://sdaprotvino.ru/sermons/100623.mp3,23
-Проповедь, 17.06.2023,Блудный сын,HD MP4, 48 мин., 746 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/17062023.mp4,http://sdaprotvino.ru/sermons/170623.mp3,24
-Проповедь, 24.06.2023,Как у вас нет веры?,HD MP4, 39 мин., 609 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/24062023.mp4,http://sdaprotvino.ru/sermons/240623.mp3,25
-Проповедь, 01.07.2023,Любишь ли ты Меня?,HD MP4, 48 мин., 750 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/01072023.mp4,http://sdaprotvino.ru/sermons/010723.mp3,26
-Проповедь, 08.07.2023,Жизнь по плоти или жизнь по духу,HD MP4, 34 мин., 537 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/08072023.mp4,http://sdaprotvino.ru/sermons/080723.mp3,27
-Проповедь, 15.07.2023,О спасении,HD MP4, 38 мин., 599 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/15072023.mp4,http://sdaprotvino.ru/sermons/150723.mp3,28
-Проповедь, 22.07.2023,Выбор: покаяние или погибель,HD MP4, 27 мин., 419 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/22072023.mp4,http://sdaprotvino.ru/sermons/220723.mp3,29
-Проповедь, 29.07.2023,Следуй за Мной,HD MP4, 27 мин., 662 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/29072023.mp4,http://sdaprotvino.ru/sermons/290723.mp3,30
-Проповедь, 05.08.2023,Три рецепта от зависти,HD MP4, 31 мин., 481 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/05082023.mp4,http://sdaprotvino.ru/sermons/050823.mp3,31
-Проповедь, 12.08.2023,Гора преображения: ученики,HD MP4, 48 мин., 753 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/12082023.mp4,http://sdaprotvino.ru/sermons/120823.mp3,32
-Проповедь, 19.08.2023,Вы свет миру,HD MP4, 53 мин., 829 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/19082023.mp4,http://sdaprotvino.ru/sermons/190823.mp3,33
-Проповедь, 23.08.2023,Победа над грехом,HD MP4, 55 мин., 860 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/23082023.mp4,http://sdaprotvino.ru/sermons/230823.mp3,34
-Проповедь, 02.09.2023,Самопознание,HD MP4, 28 мин., 444 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/02092023.mp4,http://sdaprotvino.ru/sermons/020923.mp3,35
-Проповедь, 09.09.2023,Песнь любви,HD MP4, 45 мин., 699 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/09092023.mp4,http://sdaprotvino.ru/sermons/090923.mp3,36
-Проповедь, 16.09.2023,"Я знаю,  что он думает",HD MP4, 38 мин., 596 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/16092023.mp4,http://sdaprotvino.ru/sermons/160923.mp3,37
-Проповедь, 23.09.2023,Богослужение как образ жизни,HD MP4, 39 мин., 607 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/23092023.mp4,http://sdaprotvino.ru/sermons/230923.mp3,38
-Проповедь, 30.09.2023,Измерение храма,HD MP4, 46 мин., 713 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/30092023.mp4,http://sdaprotvino.ru/sermons/300923.mp3,39
-Проповедь, 07.10.2023,Вот праздники Господни,HD MP4, 35 мин., 540 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/07102023.mp4,http://sdaprotvino.ru/sermons/071023.mp3,40
-Проповедь, 14.10.2023,Почему страдают христиане,HD MP4, 46 мин., 724 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/14102023.mp4,http://sdaprotvino.ru/sermons/141023.mp3,41
-Проповедь, 21.10.2023,Кого избирает Бог?,										HD MP4, 44 мин., 682 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/21102023.mp4,http://sdaprotvino.ru/sermons/211023.mp3,42
-Проповедь, 28.10.2023,Торжественное служение Субботы Творения,					HD MP4, 93 мин., 1.43 ГБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/28102023.mp4,http://sdaprotvino.ru/sermons/281023.mp3,43
-Проповедь, 28.10.2023,Суббота Творения,											HD MP4, 50 мин., 783 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/28102023.mp4,http://sdaprotvino.ru/sermons/281023.mp3,44
-Проповедь, 04.11.2023,Credo Ut Intelligam,										HD MP4, 41 мин., 646 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/04112023.mp4,http://sdaprotvino.ru/sermons/041123.mp3,45
-Проповедь, 11.11.2023,Зона комфорта,												HD MP4, 41 мин., 643 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/11112023.mp4,http://sdaprotvino.ru/sermons/111123.mp3,46
-Проповедь, 25.11.2023,Советы для благовестия,									HD MP4, 35 мин., 543 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/25112023.mp4,http://sdaprotvino.ru/sermons/251123.mp3,47
-Проповедь, 02.12.2023,Цена одного таланта,										HD MP4, 55 мин., 866 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/02122023.mp4,http://sdaprotvino.ru/sermons/021223.mp3,48
-Проповедь, 23.12.2023,Как нам приблизиться ко Христу,							HD MP4, 38 мин., 866 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/23122023.mp4,http://sdaprotvino.ru/sermons/231223.mp3,49
-Проповедь, 30.12.2023,Стойте - и увидите спасение Господне,						HD MP4, 31 мин., 478 МБ, Аудио МР3,http://sdaprotvino.ru/sermonsHD/30122023.mp4,http://sdaprotvino.ru/sermons/301223.mp3,50
+type;       date;     title;                video_type; time; size; audio_type;      video_link;                           audio_link;                            id
+Проповедь; 07.01.2023; Рождественские мечты; HD MP4; 61 мин.; 952 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/070123.mp4; http://sdaprotvino.ru/sermons/070123.mp3;23001
+Проповедь; 14.01.2023; Гора преображения. Моисей; HD MP4; 49 мин.; 770 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/140123.mp4; http://sdaprotvino.ru/sermons/140123.mp3;23002
+Проповедь; 21.01.2023; Праздники и Евангелие; HD MP4; 46 мин.; 718 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/210123.mp4; http://sdaprotvino.ru/sermons/210123.mp3;23003
+Проповедь; 28.01.2023; Четыре урока для последнего времени; HD MP4; 55 мин.; 858 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/280123.mp4; http://sdaprotvino.ru/sermons/280123.mp3;23004
+Проповедь; 04.02.2023; Гора преображения. Илия; HD MP4; 59 мин.; 924 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/040223.mp4; http://sdaprotvino.ru/sermons/040223.mp3;23005
+Проповедь; 11.02.2023; Бог смотрит на сердце; HD MP4; 47 мин.; 739 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/110223.mp4; http://sdaprotvino.ru/sermons/110223.mp3;23006
+Проповедь; 18.02.2023; Бог говорит нам через Библию; HD MP4; 52 мин.; 810 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/180223.mp4; http://sdaprotvino.ru/sermons/180223.mp3;23007
+Проповедь; 25.02.2023; Се, гряду скоро; HD MP4; 55 мин.; 863 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/250223.mp4; http://sdaprotvino.ru/sermons/250223.mp3;23008
+Проповедь; 04.03.2023; Совершилось! — Два аспекта спасительного служения Христа; HD MP4; 45 мин.; 704 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/040323.mp4; http://sdaprotvino.ru/sermons/040323.mp3;23009
+Проповедь; 11.03.2023; Преобразующая сила молитвы; HD MP4; 30 мин.; 477 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/110323.mp4; http://sdaprotvino.ru/sermons/110323.mp3;23010
+Проповедь; 18.03.2023; Библия - это величайшее пророческое слово; HD MP4; 34 мин.; 537 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/180323.mp4; http://sdaprotvino.ru/sermons/180323.mp3;23011
+Проповедь; 25.03.2023; На Вечерю Господню; HD MP4;45 мин.;710 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/250323.mp4; http://sdaprotvino.ru/sermons/250323.mp3;23012
+Проповедь; 01.04.2023; Не судите,  да не судимы будете; HD MP4; 34 мин.; 536 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/010423.mp4; http://sdaprotvino.ru/sermons/010423.mp3;23013
+Проповедь; 08.04.2023; Слушай,  Израиль; HD MP4; 47 мин.; 736 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/080423.mp4; http://sdaprotvino.ru/sermons/080423.mp3;23014
+Проповедь; 15.04.2023; Христос воскрес!; HD MP4; 45 мин.; 712 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/150423.mp4; http://sdaprotvino.ru/sermons/150423.mp3;23015
+Проповедь; 22.04.2023; Препятствия в молитве; HD MP4; 41 мин.; 641 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/220423.mp4; http://sdaprotvino.ru/sermons/220423.mp3;23016
+Проповедь; 29.04.2023; Я и Отец - одно; HD MP4; 49 мин.; 760 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/290423.mp4; http://sdaprotvino.ru/sermons/290423.mp3;23017
+Проповедь; 06.05.2023; Держи,  что имеешь; HD MP4; 59 мин.; 923 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/060523.mp4; http://sdaprotvino.ru/sermons/060523.mp3;23018
+Проповедь; 13.05.2023; Пустыня - поражение или победа?; HD MP4; 32 мин.; 495 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/130523.mp4; http://sdaprotvino.ru/sermons/130523.mp3;23019
+Проповедь; 20.05.2023; Сотворите же достойный плод покаяния; HD MP4; 40 мин.; 626 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/200523.mp4; http://sdaprotvino.ru/sermons/200523.mp3;23020
+Проповедь; 27.05.2023; Прощение в обмен на любовь; HD MP4; 41 мин.; 646 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/270523.mp4; http://sdaprotvino.ru/sermons/270523.mp3;23021
+Проповедь; 03.06.2023; Благодарность как часть веры; HD MP4; 19 мин.; 302 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/030623.mp4; http://sdaprotvino.ru/sermons/030623.mp3;23022
+Проповедь; 10.06.2023; Любовь, предшествующая выбору; HD MP4; 45 мин.; 702 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/100623.mp4; http://sdaprotvino.ru/sermons/100623.mp3;23023
+Проповедь; 17.06.2023; Блудный сын; HD MP4; 48 мин.; 746 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/170623.mp4; http://sdaprotvino.ru/sermons/170623.mp3;23024
+Проповедь; 24.06.2023; Как у вас нет веры?; HD MP4; 39 мин.; 609 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/240623.mp4; http://sdaprotvino.ru/sermons/240623.mp3;23025
+Проповедь; 01.07.2023; Любишь ли ты Меня?; HD MP4; 48 мин.; 750 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/010723.mp4; http://sdaprotvino.ru/sermons/010723.mp3;23026
+Проповедь; 08.07.2023; Жизнь по плоти или жизнь по духу; HD MP4; 34 мин.; 537 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/080723.mp4; http://sdaprotvino.ru/sermons/080723.mp3;23027
+Проповедь; 15.07.2023; О спасении; HD MP4; 38 мин.; 599 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/150723.mp4; http://sdaprotvino.ru/sermons/150723.mp3;23028
+Проповедь; 22.07.2023; Выбор: покаяние или погибель; HD MP4; 27 мин.; 419 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/220723.mp4; http://sdaprotvino.ru/sermons/220723.mp3;23029
+Проповедь; 29.07.2023; Следуй за Мной; HD MP4; 27 мин.; 662 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/290723.mp4; http://sdaprotvino.ru/sermons/290723.mp3;23030
+Проповедь; 05.08.2023; Три рецепта от зависти; HD MP4; 31 мин.; 481 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/050823.mp4; http://sdaprotvino.ru/sermons/050823.mp3;23031
+Проповедь; 12.08.2023; Гора преображения: ученики; HD MP4; 48 мин.; 753 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/120823.mp4; http://sdaprotvino.ru/sermons/120823.mp3;23032
+Проповедь; 19.08.2023; Вы свет миру; HD MP4; 53 мин.; 829 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/190823.mp4; http://sdaprotvino.ru/sermons/190823.mp3;23033
+Проповедь; 23.08.2023; Победа над грехом; HD MP4; 55 мин.; 860 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/230823.mp4; http://sdaprotvino.ru/sermons/230823.mp3;23034
+Проповедь; 02.09.2023; Самопознание; HD MP4; 28 мин.; 444 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/020923.mp4; http://sdaprotvino.ru/sermons/020923.mp3;23035
+Проповедь; 09.09.2023; Песнь любви; HD MP4; 45 мин.; 699 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/090923.mp4; http://sdaprotvino.ru/sermons/090923.mp3;23036
+Проповедь; 16.09.2023; Я знаю, что он думает; HD MP4; 38 мин.; 596 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/160923.mp4; http://sdaprotvino.ru/sermons/160923.mp3;23037
+Проповедь; 23.09.2023; Богослужение как образ жизни; HD MP4; 39 мин.; 607 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/230923.mp4; http://sdaprotvino.ru/sermons/230923.mp3;23038
+Проповедь; 30.09.2023; Измерение храма; HD MP4; 46 мин.; 713 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/300923.mp4; http://sdaprotvino.ru/sermons/300923.mp3;23039
+Проповедь; 07.10.2023; Вот праздники Господни; HD MP4; 35 мин.; 540 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/071023.mp4; http://sdaprotvino.ru/sermons/071023.mp3;23040
+Проповедь; 14.10.2023; Почему страдают христиане; HD MP4; 46 мин.; 724 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/141023.mp4; http://sdaprotvino.ru/sermons/141023.mp3;23041
+Проповедь; 21.10.2023; Кого избирает Бог?; HD MP4; 44 мин.; 682 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/211023.mp4; http://sdaprotvino.ru/sermons/211023.mp3;23042
+Проповедь; 28.10.2023; Торжественное служение Субботы Творения; HD MP4; 93 мин.; 1.43 ГБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/281023.mp4; http://sdaprotvino.ru/sermons/281023.mp3;23043
+Проповедь; 28.10.2023; Суббота Творения; HD MP4; 50 мин.; 783 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/281023.mp4; http://sdaprotvino.ru/sermons/281023.mp3;23044
+Проповедь; 04.11.2023; Credo Ut Intelligam; HD MP4; 41 мин.; 646 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/041123.mp4; http://sdaprotvino.ru/sermons/041123.mp3;23045
+Проповедь; 11.11.2023; Зона комфорта; HD MP4; 41 мин.; 643 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/111123.mp4; http://sdaprotvino.ru/sermons/111123.mp3;23046
+Проповедь; 25.11.2023; Советы для благовестия; HD MP4; 35 мин.; 543 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/251123.mp4; http://sdaprotvino.ru/sermons/251123.mp3;23047
+Проповедь; 02.12.2023; Цена одного таланта; HD MP4; 55 мин.; 866 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/021223.mp4; http://sdaprotvino.ru/sermons/021223.mp3;23048
+Проповедь; 23.12.2023; Как нам приблизиться ко Христу; HD MP4; 38 мин.; 866 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/231223.mp4; http://sdaprotvino.ru/sermons/231223.mp3;23049
+Проповедь; 30.12.2023; Стойте - и увидите спасение Господне; HD MP4; 31 мин.; 478 МБ; Аудио МР3;http://sdaprotvino.ru/sermonsHD/301223.mp4; http://sdaprotvino.ru/sermons/301223.mp3;23050

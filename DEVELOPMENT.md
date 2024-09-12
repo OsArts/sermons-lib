@@ -2,31 +2,24 @@
 
 Use `/scripts/*` for get chunks by `parsing data`
 
-## Clean_breakspaces
+## ШАГ 1. Получение списка заголовков проповедей
 
-```python
-import sys
+> `./scripts/get_2022.py`
 
-if len(sys.argv) != 2:
-    print("Usage: python3 script.py <file_path>")
-    sys.exit(1)
+- открыть `./scripts/get_2022.py` в редакторе, указать искомый год(если 2022 то присваиваем `year = 22`)
+- открыть `./scripts/cleaner.py` в редакторе, указать искомый год(если 2022 то присваиваем `year = 22`)
+- [x] `make data`
 
-file_path = sys.argv[1]
+---
+ 
+## ШАГ 2. Clean_breakspaces
 
-try:
-    with open(file_path, 'r') as file:
-        lines = file.readlines()
-except FileNotFoundError:
-    print(f"File {file_path} not found.")
-    sys.exit(1)
+- открыть терминал и задать значение переменной `$ export DATAFILE="./tmp/input.txt"` << тут буду данные за [2022] созданные на предыдущем шаге 1.
+- Makefile имеет правило `sp:` - **space_cleaner**
+- `$ make sp` или
+    - `$ python3 ./scripts/space_cleaner.py ./tmp/input.txt`
+    
 
-filtered_lines = [line for line in lines if line.strip() != '']
-
-with open(file_path, 'w') as file:
-    file.writelines(filtered_lines)
-
-print(f"Empty lines removed from {file_path}.")
-```
 ## Prod_server
 
 - [ ] наполнять каталог `/lib/{year}` от билда из `/dist/sermons/`

@@ -28,3 +28,7 @@ tmp/
 src/data/_pre
 src/pages/info.md
 .venv
+
+input.txt
+output.txt
+output2022_c.txt

@@ -4,6 +4,12 @@ SHELL=./scripts/activate.sh
 FILE=main
 pipe = se cl
 
+# https://stackoverflow.com/questions/6273608/how-to-pass-argument-to-makefile-from-command-line
+
+%:
+	@:
+args = 'arg="$(filter-out $@,$(MAKECMDGOALS))" && echo $${arg:-${1}}'
+
 .PHONY: run
 run:
 	@npm run dev -- --host 192.168.0.101
@@ -29,6 +35,7 @@ bu:
 pa:
 	@python3 ./scripts/parse.py
 
+# SERMONS
 .PHONY: se
 se:
 	@python3 ./scripts/get_2022.py
@@ -39,3 +46,16 @@ cl:
 	@python3 ./scripts/cleaner.py
 
 data: $(pipe)
+
+# Create sabbats sys.argv[1]
+.PHONY: sb
+sb:
+	@python3 ./scripts/sabbats.py $(VAR)
+
+test:
+	@echo $(call args,defaultstring)
+
+# Предварительная очистка файла(сформированного из копирования со страницы хтм в ЗАМЕТКИ, а потом перенесённых в саблайм-текст)
+.PHONY: sp
+sp:
+	@python3 ./scripts/space_cleaner.py $(DATAFILE)
