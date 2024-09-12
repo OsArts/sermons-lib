@@ -30,7 +30,15 @@ def transform_file(input_file, output_file):
         print(f"Произошла ошибка: {e}")
 
 # Укажите имена входного и выходного файлов
-input_filename = './tmp/output.txt'
-output_filename = './tmp/output22_b.txt'
+d_file = 'input2022_c.txt'
+input_filename = './tmp/' + d_file
 
-transform_file(input_filename, output_filename)
+o_file = 'output2022_c.txt'
+output_filename = './tmp/' + o_file
+
+print(f"Читаем данные из {d_file}")
+print(f"Новый файл: ./tmp/{o_file}")
+
+
+# transform_file(input_filename, output_filename)
+transform_file(d_file, o_file)

@@ -4,6 +4,8 @@
 
 import sys
 from datetime import datetime, timedelta
+
+
 """ 
 # По указанному году формируется список дат(конкретно суббот),
 # сохраняемый во временных файлах `./tmp/{year}_sabbats.txt`
@@ -40,6 +42,8 @@ if __name__ == "__main__":
 
     try:
         year = int(sys.argv[1])
+        print(f"начинаем формировать список суббот 📜 {year}")
+        
         saturdays = get_saturdays(year)
         save_saturdays_to_file(year, saturdays)
         print(f"Субботы {year} сохранены в файл ./tmp/{year}_sabbats.txt")
